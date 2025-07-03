@@ -2,7 +2,7 @@
   <header class="header">
     <div class="container">
       <div class="logo-section">
-        <img src="https://via.placeholder.com/80x80/FF6B9D/FFFFFF?text=LOGO" alt="JOCHRUNZ Logo" class="logo">
+        <img src="/src/assets/logo.JPG" alt="JOCHRUNZ Logo" class="logo">
         <h1 class="brand-name">JOCHRUNZ</h1>
       </div>
       <nav class="nav">

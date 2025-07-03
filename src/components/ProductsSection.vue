@@ -37,7 +37,7 @@ const allProducts = [
     name: 'Mentos',
     price: '€ 1,50',
     category: 'snoep',
-    image: 'https://static.wikia.nocookie.net/the_candy_encyclopedia/images/8/80/Mentos.jpg/revision/latest?cb=20200516172032'
+    image: 'https://cdn.gardengrocer.com/attachments/photos/high_res/3717.png?1247'
   },
   {
     id: 4,
@@ -119,6 +119,13 @@ const allProducts = [
     price: '€ 3,50',
     category: 'kauwgom',
     image: 'https://static.ah.nl/dam/product/AHI_4354523130313031363132?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary'
+  },
+  {
+    id: 15,
+    name: 'Rainbow Gum',
+    price: '€ 2,00',
+    category: 'kauwgom',
+    image: './src/assets/rainbow-gum.jpg'
   },
 
   // Koekjes

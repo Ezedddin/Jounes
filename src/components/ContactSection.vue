@@ -100,18 +100,6 @@ const submitForm = async () => {
         </button>
       </form>
       
-      <div class="setup-info">
-        <h3>🚀 Formspree Setup Instructies</h3>
-        <p>Voor echte email verzending via Formspree:</p>
-        <ol>
-          <li>Ga naar <a href="https://formspree.io" target="_blank">formspree.io</a> en maak een gratis account</li>
-          <li>Maak een nieuw form en stel kamelezeddin@gmail.com in als ontvangsadres</li>
-          <li>Kopieer je Form ID (bijv. "xpzgkrdq")</li>
-          <li>Vervang "YOUR_FORM_ID" in ContactSection.vue door je echte Form ID</li>
-          <li>Uncomment de fetch code en comment de simulatie uit</li>
-        </ol>
-        <p><strong>Voordelen Formspree:</strong> Gratis tot 50 emails/maand, geen API keys nodig, spam protection ingebouwd!</p>
-      </div>
     </div>
   </section>
 </template>
