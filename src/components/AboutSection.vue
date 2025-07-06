@@ -5,12 +5,14 @@
         <div class="about-text">
           <h2 class="section-title">Over JOCHRUNZ</h2>
           <p class="about-description">
-            Het allemaal begon toen mijn kleine neefje Jounes een grote droom had: de hele wereld blij maken met de lekkerste snoepjes! 
-            Met zijn grote glimlach en oneindige energie begon hij zijn eigen snoepavontuur. 
+            Het begon allemaal op de middelbare school in Brugge, waar twee vrienden, Jounes en Olu, samen droomden van een 
+            wereld vol vrolijkheid. Tijdens de pauzes bedachten ze plannen om het allerlekkerste snoep te maken dat iedereen 
+            blij zou maken. 
           </p>
           <p class="about-description">
-            Van kleurrijke gummiberen tot de zuurste wormpjes - bij JOCHRUNZ vind je alle snoep die je hart begeert. 
-            We geloven dat snoep niet alleen lekker moet zijn, maar ook een glimlach op je gezicht moet toveren!
+            Met hun passie voor smaken en hun eindeloze fantasie ontstond JOCHRUNZ: een plek waar je de meest kleurrijke 
+            en verrassende snoepjes vindt. Van zachte gummibeertjes 
+            tot knetterende zuurtjes – elk snoepje is gemaakt om een glimlach op je gezicht te toveren!
           </p>
           <div class="fun-facts">
             <div class="fact">

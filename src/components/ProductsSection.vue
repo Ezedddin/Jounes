@@ -26,7 +26,7 @@ const allProducts = [
   {
     id: 2,
     name: 'Mister Beast Chocolate',
-    price: '€ 3,00',
+    price: '€ 5,00',
     category: 'chocolade',
     image: 'https://m.media-amazon.com/images/I/61rXXviigEL.jpg'
   },
@@ -34,36 +34,36 @@ const allProducts = [
   // Snoep
   {
     id: 3,
-    name: 'Mentos',
-    price: '€ 1,50',
+    name: 'Mentos fruit edition',
+    price: '€ 0.80',
     category: 'snoep',
-    image: 'https://cdn.gardengrocer.com/attachments/photos/high_res/3717.png?1247'
+    image: 'https://www.compliment.nl/wp-content/uploads/2023/05/Mentos-Fruit-Rol-40x-375gr-2_png.webp'
   },
   {
     id: 4,
     name: 'Lolipop',
-    price: '€ 1,00',
+    price: '€ 0.50',
     category: 'snoep',
     image: 'https://i.ebayimg.com/images/g/yEcAAOSw9LlalEm2/s-l1200.jpg'
   },
   {
     id: 5,
     name: 'Candy Bubble Gum',
-    price: '€ 2,00',
+    price: '€ 0.60',
     category: 'snoep',
     image: 'https://cottoncravings.com/wp-content/uploads/2024/07/bubblegum.jpg'
   },
   {
     id: 7,
     name: 'Sour Patch Kids',
-    price: '€ 3,50',
+    price: '€ 2,50',
     category: 'snoep',
     image: 'https://cdn.webshopapp.com/shops/263312/files/439899917/sour-patch-kids-sour-patch-kids-original-pouch-130.jpg'
   },
   {
     id: 8,
     name: 'Airhead',
-    price: '€ 2,75',
+    price: '€ 1.45',
     category: 'snoep',
     image: 'https://mycandystore.nl/cdn/shop/files/AirheadsBlueRaspberry.jpg?v=1696445215'
   },
@@ -72,35 +72,35 @@ const allProducts = [
   {
     id: 9,
     name: 'Pepsi Cola 33CL',
-    price: '€ 2,50',
+    price: '€ 0.85',
     category: 'drinken',
     image: 'https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=300&h=300&fit=crop&crop=center'
   },
   {
     id: 6,
     name: 'Tropico',
-    price: '€ 2,50',
+    price: '€ 1.10',
     category: 'drinken',
     image: 'https://prod.isg.bruneau.media/asset/aHR0cHM6Ly9icnVuZWF1LnNpbXBsZXdvcmtzcGFjZS5uZXQvZmlsZS9wdWJBc3NldEJhc2UvS2doNV9jc0FWX1hOR1Fmd3hsVDVtbXVycVVtaDk4Y1hZcnlJdzFfd2ZPbU9PZGRHNU5ZLzAvcy83NzM4NDAuanBn/?quality=85'
   },
   {
     id: 10,
     name: 'Mentos Drink',
-    price: '€ 2,00',
+    price: '€ 1.85',
     category: 'drinken',
     image: 'https://www.unitedsweets.co.nz/cdn/shop/files/MentosGreen_1024x1024.png?v=1717999422'
   },
   {
     id: 11,
     name: 'AA Drink Orange',
-    price: '€ 3,00',
+    price: '€ 0,99',
     category: 'drinken',
     image: 'https://balvismeesters.nl/wp-content/uploads/2020/11/AA-drink-TinyJPG.jpg'
   },
   {
     id: 12,
     name: 'Gatorade',
-    price: '€ 3,50',
+    price: '€ 4,60',
     category: 'drinken',
     image: 'https://www.farsons.com/en/file.aspx?f=1526'
   },
@@ -116,13 +116,13 @@ const allProducts = [
   {
     id: 14,
     name: 'Mentos 28 PCS',
-    price: '€ 3,50',
+    price: '€ 4,00',
     category: 'kauwgom',
     image: 'https://static.ah.nl/dam/product/AHI_4354523130313031363132?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary'
   },
   {
     id: 15,
-    name: 'Rainbow Gum',
+    name: 'Candy Bubble Gum',
     price: '€ 2,00',
     category: 'kauwgom',
     image: './src/assets/rainbow-gum.jpg'
@@ -132,14 +132,14 @@ const allProducts = [
   {
     id: 15,
     name: 'Oreo Original',
-    price: '€ 3,00',
+    price: '€ 1,20',
     category: 'koekjes',
     image: 'https://dutchshopper.com/cdn/shop/files/891863_3a68e9fb-0def-491a-b2a5-74a4eb3561ef.png?v=1736659459'
   },
   {
     id: 16,
     name: 'Oreo Wafer Rolls',
-    price: '€ 3,50',
+    price: '€ 1,60',
     category: 'koekjes',
     image: 'https://www.myamericanshop.nl/cdn/shop/products/oreo-wafer-roll-chocolate-8934680033442-31484365144227.png?v=1704731846'
   },
@@ -148,21 +148,21 @@ const allProducts = [
   {
     id: 17,
     name: 'Snoep Mix S',
-    price: '€ 5,00',
+    price: '€ 3,00',
     category: 'mix',
     image: 'https://notenleverancier.nl/cdn/shop/files/D773D2DC-1778-4476-B257-538074F8DA7C.jpg?v=1707328516'
   },
   {
     id: 18,
     name: 'Snoep Mix M',
-    price: '€ 8,00',
+    price: '€ 6,00',
     category: 'mix',
     image: 'https://notenleverancier.nl/cdn/shop/files/D773D2DC-1778-4476-B257-538074F8DA7C.jpg?v=1707328516'
   },
   {
     id: 19,
     name: 'Snoep Mix L',
-    price: '€ 12,00',
+    price: '€ 7,50',
     category: 'mix',
     image: 'https://notenleverancier.nl/cdn/shop/files/D773D2DC-1778-4476-B257-538074F8DA7C.jpg?v=1707328516'
   },
@@ -176,14 +176,14 @@ const allProducts = [
   {
     id: 21,
     name: 'Mystery Box M',
-    price: '€ 15,00',
+    price: '€ 20,00',
     category: 'mix',
     image: 'https://snoepbeer.nl/app/uploads/2024/08/download-8.jpg'
   },
   {
     id: 22,
     name: 'Mystery Box L',
-    price: '€ 20,00',
+    price: '€ 30,00',
     category: 'mix',
     image: 'https://snoepbeer.nl/app/uploads/2024/08/download-8.jpg'
   }
@@ -234,7 +234,6 @@ const setCategory = (categoryId: string) => {
           </div>
           <h3 class="product-name">{{ product.name }}</h3>
           <p class="product-price">{{ product.price }}</p>
-          <button class="add-to-cart">Bestellen</button>
         </div>
       </div>
 
