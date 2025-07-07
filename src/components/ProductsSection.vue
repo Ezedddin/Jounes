@@ -111,7 +111,7 @@ const allProducts = [
     name: '50 PCS Aardbei',
     price: '€ 5,00',
     category: 'kauwgom',
-    image: 'https://media.s-bol.com/NrwgWlzmpq8K/v2kgzOr/1200x1007.jpg'
+    image: 'https://static.colruytgroup.com/images/500x500/std.lang.all/06/11/asset-3330611.jpg'
   },
   {
     id: 14,
